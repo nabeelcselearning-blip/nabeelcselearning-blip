@@ -21,4 +21,4 @@ Data Engineering • SQL • Data Modeling
 ...
 
 🔗 Connect
-[LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/nabeel-islam-272708292/)
+[LinkedIn](https://www.linkedin.com/in/nabeel-islam-272708292/)
