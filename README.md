@@ -45,22 +45,21 @@ Currently following the **Codebasics Data Engineering Roadmap 2026** and buildin
 
 ## 🏗️ Featured Projects
 
-### 🔐 DataVault
+###🔐 [DataVault](https://github.com/nabeelcselearning-blip/DataVault)
 A practical Data Engineering project focused on building a structured data workflow and applying core data engineering concepts.
 
 **Tech:** Python • SQL • PostgreSQL • Git
 
-### 🌐 SkylineETL
+###🌐 [SkylineETL](https://github.com/nabeelcselearning-blip/SkyLineETL)
 An ETL-focused project demonstrating data extraction, transformation, validation, and loading through a structured pipeline.
 
 **Tech:** Python • SQL • ETL
 
-### 🌦️ Weather Data Pipeline
-A hands-on pipeline that ingests weather data from an API and processes it into a structured data store.
+###📁 [Download Folder Organizer](https://github.com/nabeelcselearning-blip/download-folder-organizer)
 
-**Tech:** Python • REST API • SQL • ETL
+A Python automation utility that automatically organizes files in a download directory into categorized folders based on file type, reducing repetitive manual file management.
 
-> More projects are being built as I progress through my Data Engineering journey.
+Tech: Python • Automation • File Handling
 
 ## 📊 GitHub Activity
 
