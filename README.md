@@ -136,10 +136,17 @@ Continuously building and documenting new projects as I progress through my Data
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelcselearning-blip&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelcselearning-blip&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="Nabeel's GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Nabeel's Top Languages"
+  />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
